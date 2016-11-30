@@ -1,17 +1,17 @@
 # Blog details (rendered in the header)
 title: UTF-9000
-description: Sometimes I get lost in cyberspace so it's about time I share my findings!
+description: My Open Source Jekyll theme
 
 # Pathing information
 baseurl: ""
-url: "http://blog.thingsima.de"
+url: ""
 
 # Contact details (for the footer)
-email: marcus@thingsima.de
-linkedin: placeholderurl
-steam: sandtree
-twitter: ethernetsalad
-github: marcus-crane
+email: user@example.com
+# linkedin:
+# steam:
+# twitter:
+# github:
 
 # Build settings
 destination: docs
