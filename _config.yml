@@ -1,16 +1,18 @@
+# Blog details (rendered in the header)
 title: UTF-9000
-email: marcus@thingsima.de
 description: Sometimes I get lost in cyberspace so it's about time I share my findings!
+
+# Pathing information
 baseurl: ""
 url: "http://blog.thingsima.de"
-twitter_username: ethernetsalad
-github_username: marcus-crane
+
+# Contact details (for the footer)
+email: marcus@thingsima.de
+twitter: ethernetsalad
+github: marcus-crane
 
 # Build settings
 markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
