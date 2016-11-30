@@ -17,3 +17,12 @@
     </div>
   </header>
 {% endif %}
+
+{% if page.layout == 'page' %}
+  <header>
+    <a href="/"><i class="fa fa-chevron-left"></i></a>
+    <div id="title">
+      <h1>{{ page.title }}</h1>
+    </div>
+  </header>
+{% endif %}
